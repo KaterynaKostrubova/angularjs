@@ -1,0 +1,67 @@
+.menu{
+    margin: 0;
+    background: #18bc9c;
+}
+
+.collapse.navbar-collapse ul li a:hover {
+    background: lightgrey;
+}
+.navbar-right{
+   padding-right:50px;
+}
+.thumbnail {
+    margin:  1px auto;
+    position: relative;
+}
+.remove{
+    position: absolute;
+    right:5px;
+}
+.white{
+    background:white;
+    /*padding-top: 50px;*/
+    /*padding-bottom: 50px;*/
+}
+.blue {
+    background: #18bc9c;
+}
+.check{
+    padding-top: 15px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#order{
+    width:200px;
+}
+.addForm {
+    text-align: center;
+    padding-top:15px;
+    margin:0;
+
+}
+.date {
+    color: lightgrey;
+    text-align: start;
+}
+.text-center {
+    padding: 20px;
+}
+ .shoppingCard {
+     margin: 20px;
+ }
+ .footer {
+     height: 50px;
+ }
+ .footer ul {
+     margin-left: 45% ;
+ }
+#widthfield {
+     width:30px;
+ }
+.amount {
+    text-align: end;
+    padding-bottom: 10px;
+}

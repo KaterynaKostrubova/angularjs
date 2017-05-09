@@ -1,0 +1,14 @@
+/node_modules/
+
+/bower_components/
+/dist/
+
+/.git/
+
+/.idea/
+
+/**/*.psd
+/**/Thumbs.db
+
+
+  
